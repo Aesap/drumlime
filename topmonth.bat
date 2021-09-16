@@ -1,0 +1,1 @@
+python C:\inetpub\wwwroot\top_10_month.py %*
